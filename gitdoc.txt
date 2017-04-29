@@ -1,0 +1,13 @@
+Para anhadir un archivo
+$ git add archivo.cpp
+
+Comentario
+$ git commit -m"nuevo archivo"
+
+Para subirlo
+$ git push
+$ git push origin master
+
+Si no atraca, a actualizar
+$ git pull
+$ git pull --rebase
